@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "desc": "Alimentação",
+    "valor": 10.0
+  },
+  {
+    "id": 1,
+    "desc": "Transporte",
+    "valor": 5.0
+  },
+  {
+    "id": 2,
+    "desc": "Mercado",
+    "valor": 50.0
+  }
+]
